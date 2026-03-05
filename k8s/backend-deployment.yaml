@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: 360025768948.dkr.ecr.us-east-1.amazonaws.com/crud-app-backend:11
+          image: 360025768948.dkr.ecr.us-east-1.amazonaws.com/crud-app-backend:12
           ports:
             - containerPort: 3000
           env:
